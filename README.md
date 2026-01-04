@@ -1,5 +1,10 @@
 ![image](https://github.com/user-attachments/assets/2ffb2b71-e54d-4b4f-b267-27150006d086)
-
+## what i do
+- web development (javascript; learning react and electron too for web apps)
+- game development (c# for unity, luau for roblox, lua for modding games, java for modding 
+- software development (qt, c++, learning swift)
+- scripting and automation (python)
+- low level programming (rarer and less experienced but work with C/C++)
 ![freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white) Hire me to do your work or something idk
 
 ## languages
@@ -10,9 +15,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)*
-
-*: only roblox lua
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ## frameworks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
