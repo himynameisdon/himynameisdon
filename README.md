@@ -5,6 +5,7 @@
 - software development (qt, c++, learning swift)
 - scripting and automation (python)
 - low level programming (rarer and less experienced but work with C/C++)
+
 ![freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white) Hire me to do your work or something idk
 
 ## languages
