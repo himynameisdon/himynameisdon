@@ -17,5 +17,5 @@ jobs:
       - name: Update Stats
         uses: thanhhaudev/github-stats@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_KEY }}
           SHOW_METRICS: "COMMIT_TIMES_OF_DAY,COMMIT_DAYS_OF_WEEK,LANGUAGE_PER_REPO"
