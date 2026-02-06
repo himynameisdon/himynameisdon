@@ -39,7 +39,3 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-# stats
-![swagswagstar's Stats](https://github-readme-stats.vercel.app/api?username=himynameisdon&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![swagswagstar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himynameisdon&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
