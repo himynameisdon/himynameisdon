@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/2ffb2b71-e54d-4b4f-b267-27150006d086)
+<!--START_SECTION:readme-stats-->
+<!--END_SECTION:readme-stats-->
+
 ## what i do
 - web development (javascript; learning react and electron too for web apps)
 - game development (c# for unity, luau for roblox, lua for modding games, java for modding 
