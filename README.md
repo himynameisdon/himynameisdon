@@ -39,6 +39,9 @@ im adonis. im 17. i do code.
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+# stats
+these work once every blue moon so if this is empty uhhh idk what to tell you man
+
 <!--START_SECTION:readme-stats-->
 **🕒 I'm An Afternoon Warrior 🥷🏻**
 
