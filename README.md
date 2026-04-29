@@ -1,5 +1,5 @@
 ## hi
-im adonis. im 17. im a student and i do code. 
+im 17. im a student and i do code. 
 
 - web development (javascript; learning react and electron too for web apps)
 - game development (c# for unity, luau for roblox, lua for modding games, java for modding 
